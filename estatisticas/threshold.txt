@@ -1,0 +1,16 @@
+modelo_1
+		 1 acertos e 2 erros abaixo de 70%
+		 3 acertos e 4 erros abaixo de 75%
+		 7 acertos e 4 erros abaixo de 80%
+		 11 acertos e 4 erros abaixo de 85%
+		 30 acertos e 6 erros abaixo de 90%
+		 141 acertos e 6 erros abaixo de 95%
+		 141 acertos e 6 erros abaixo de 100%
+modelo_2
+		 7 acertos e 8 erros abaixo de 70%
+		 11 acertos e 9 erros abaixo de 75%
+		 15 acertos e 11 erros abaixo de 80%
+		 34 acertos e 13 erros abaixo de 85%
+		 78 acertos e 16 erros abaixo de 90%
+		 230 acertos e 16 erros abaixo de 95%
+		 230 acertos e 16 erros abaixo de 100%

@@ -2,6 +2,7 @@ import requests, sys
 
 # Gets the contents of an image file to be sent to the
 # machine learning model for classifying
+
 def getImageFileData(locationOfImageFile):
     with open(locationOfImageFile, "rb") as f:
         data = f.read()
@@ -28,3 +29,5 @@ def classify(imagefile):
         return topMatch
     else:
         response.raise_for_status()
+
+threshold = 79

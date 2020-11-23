@@ -1,0 +1,54 @@
+modelo_1
+1 erro(s) com 61% de precisão
+1 erro(s) com 63% de precisão
+1 erro(s) com 65% de precisão
+1 erro(s) com 66% de precisão
+1 erro(s) com 67% de precisão
+5 erro(s) com 68% de precisão
+2 erro(s) com 70% de precisão
+1 erro(s) com 71% de precisão
+1 erro(s) com 77% de precisão
+1 erro(s) com 79% de precisão
+2 erro(s) com 80% de precisão
+2 erro(s) com 81% de precisão
+3 erro(s) com 84% de precisão
+2 erro(s) com 85% de precisão
+4 erro(s) com 86% de precisão
+1 erro(s) com 87% de precisão
+2 erro(s) com 88% de precisão
+6 erro(s) com 89% de precisão
+8 erro(s) com 90% de precisão
+5 erro(s) com 91% de precisão
+
+modelo_2
+1 erro(s) com 50% de precisão
+1 erro(s) com 51% de precisão
+1 erro(s) com 53% de precisão
+1 erro(s) com 54% de precisão
+1 erro(s) com 56% de precisão
+1 erro(s) com 57% de precisão
+1 erro(s) com 58% de precisão
+1 erro(s) com 60% de precisão
+2 erro(s) com 63% de precisão
+1 erro(s) com 64% de precisão
+2 erro(s) com 65% de precisão
+1 erro(s) com 66% de precisão
+2 erro(s) com 69% de precisão
+1 erro(s) com 70% de precisão
+2 erro(s) com 71% de precisão
+2 erro(s) com 74% de precisão
+2 erro(s) com 76% de precisão
+2 erro(s) com 77% de precisão
+3 erro(s) com 78% de precisão
+1 erro(s) com 79% de precisão
+2 erro(s) com 80% de precisão
+2 erro(s) com 82% de precisão
+2 erro(s) com 83% de precisão
+1 erro(s) com 85% de precisão
+4 erro(s) com 86% de precisão
+1 erro(s) com 87% de precisão
+1 erro(s) com 88% de precisão
+3 erro(s) com 89% de precisão
+3 erro(s) com 90% de precisão
+1 erro(s) com 91% de precisão
+

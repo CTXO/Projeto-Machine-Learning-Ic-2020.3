@@ -29,6 +29,5 @@ def classify(imagefile):
     else:
         response.raise_for_status()
 
-
-# CHANGE THIS to the name of the image file you want to classify
+threshold = 88
 
