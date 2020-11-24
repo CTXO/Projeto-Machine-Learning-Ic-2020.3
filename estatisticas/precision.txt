@@ -1,0 +1,16 @@
+modelo_1
+	 Precisão em yorkshire: 100.0%
+	 Precisão em shih_tzu: 97.92%
+	 Precisão em poodle: 90.0%
+
+Precisão do modelo: 95.97%
+
+
+modelo_2
+	 Precisão em yorkshire: 93.88%
+	 Precisão em shih_tzu: 97.92%
+	 Precisão em poodle: 88.0%
+	 Precisão em labrador: 94.12%
+	 Precisão em pug: 93.75%
+
+Precisão do modelo: 93.53%

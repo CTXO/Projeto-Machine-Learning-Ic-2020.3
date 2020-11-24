@@ -64,8 +64,8 @@ class StartPage(tk.Frame):
         title_label = tk.Label(self, text="Projeto Machine Learning", font=LARGE_FONT)
         title_label.place(x=WIDTH/2, y=20, anchor="center")
 
-        x = 200
-        y = 100
+        x = 180
+        y = 200
         button = tk.Button(self, text="3 raças",
                            command=lambda: controller.show_frame(ModelOne))
         button.place(x=x, y=y, anchor="center")
