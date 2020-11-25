@@ -2,9 +2,9 @@ modelo_1
 2 erro(s) com menos de  65% de precisão
 10 erro(s) com menos de  70% de precisão
 13 erro(s) com menos de  75% de precisão
+37 erro(s) com menos de  90% de precisão
 15 erro(s) com menos de  80% de precisão
 22 erro(s) com menos de  85% de precisão
-37 erro(s) com menos de  90% de precisão
 50 erro(s) com menos de  95% de precisão
 50 erro(s) com menos de  100% de precisão
 

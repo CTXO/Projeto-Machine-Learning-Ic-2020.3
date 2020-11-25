@@ -15,6 +15,7 @@ class Screen(tk.Tk):
         
         tk.Tk.__init__(self, *args, **kwargs)
         self.geometry(f"{WIDTH}x{HEIGHT}+400+300")
+        self.title("Projeto Machine Learning")
 
         container = tk.Frame(self)
         container.pack(side="top", fill="both", expand = True)
