@@ -39,7 +39,7 @@ class Screen(tk.Tk):
         frame.tkraise()
 
     def select_image(self):
-        image = filedialog.askopenfilename(initialdir="../imagens/apresentacao",
+        image = filedialog.askopenfilename(initialdir="../",
                                            filetypes=(("Jpg files", "*.jpg"), ("Png files", "*.png"),
                                                       ("All Files", "*.*")))
         # print(image)
