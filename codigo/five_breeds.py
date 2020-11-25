@@ -30,4 +30,4 @@ def classify(imagefile):
     else:
         response.raise_for_status()
 
-threshold = 79
+threshold = 80

@@ -29,5 +29,5 @@ def classify(imagefile):
     else:
         response.raise_for_status()
 
-threshold = 77
+threshold = 75
 
